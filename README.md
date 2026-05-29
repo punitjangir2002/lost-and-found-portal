@@ -68,12 +68,18 @@
 
 # ## Screenshots
 
-### Register Page
-![Register Page](screenshots/register-page.png)
+### Registration Page
+![Registration Page](screenshots/register.png)
 
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
 ### Profile Page
-![Profile Page](screenshots/profile-page.png)
+![Profile Page](screenshots/profile.png)
+
+### Item Details
+![Item Details](screenshots/item.png)
+
+### Item Listing
+![Item Listing](screenshots/item2.png)
 
