@@ -66,5 +66,14 @@
 
 # \* Notification system
 
-# 
+# ## Screenshots
+
+### Register Page
+![Register Page](screenshots/register-page.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Profile Page
+![Profile Page](screenshots/profile-page.png)
 
